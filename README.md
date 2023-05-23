@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on making my very own bspwm desktop and putting some files from which some one can easily replicate it
+- debian iso - https://cdimage.debian.org/cdimage/weekly-builds/amd64/iso-cd/
 <!--
 **Daksh-Linux/Daksh-Linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
